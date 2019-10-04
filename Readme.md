@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Random Resep Makanan</h1>
+<h1 align="center">Random Resep Makanan</h1>
 
 Aplikasi sederhana yang menampilkan resep makanan, clone by tutorial https://www.florin-pop.com/blog/2019/09/random-meal-generator/ dengan beberapa perubahan yang sangat kecil.
 
